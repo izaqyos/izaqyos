@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @izaqyos
-- 👀 I’m interested in programming, design, architecture 
-- 🌱 I’m currently learning nodejs design patterns, advance python 
+# Bio
+- 👋 Hi, I’m @izaqyos - I've been passionante about programming since about forever
+- 👀 Many projects, companies and different langauges and frameworks. Ranging from C, C++ Networking and Health realated to Java and NodeJS for cloud dev
+  
 
 
 <!---

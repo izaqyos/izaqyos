@@ -16,4 +16,4 @@
 - [`toyMCP`](https://github.com/izaqyos/toyMCP) — a minimal MCP server implementation (to-do CRUD over JSON-RPC)
 - [`OrderProcessingSystemRepo`](https://github.com/izaqyos/OrderProcessingSystemRepo) — TypeScript order-processing system, design-first
 
-📫 izaqyos@gmail.com · [LinkedIn](https://www.linkedin.com/in/yosi-izaq)
+📫 izaqyos@gmail.com · [LinkedIn](https://www.linkedin.com/in/yosi-izaq-2361251)
